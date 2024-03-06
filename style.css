@@ -1,0 +1,16 @@
+body {}
+
+header {
+    background-color: #1f2937;
+}
+
+nav ul {
+    display: flex;
+
+}
+
+h2 {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #f9faf8;
+}
